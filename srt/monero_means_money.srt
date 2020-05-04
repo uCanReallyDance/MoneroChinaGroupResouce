@@ -1,7 +1,7 @@
 1
 00:01:19,060 --> 00:01:21,900
 Once upon a time, the dollar was as good as gold.
-曾几何时，美元就像黄金一样好。
+曾几何时，美元就如同黄金一样。
 
 
 2
@@ -13,7 +13,7 @@ The United States and most other countries minted gold coins.
 3
 00:01:25,720 --> 00:01:28,360
 Paper money was a promise to pay in gold.
-纸币被承诺可以用来兑换黄金。
+当时各国承诺可以纸币来兑换黄金。
 
 
 4
@@ -25,13 +25,13 @@ But today, the dollar and most other world currencies
 5
 00:01:31,560 --> 00:01:34,840
 are supported not by gold, but by credit
-已经不再以黄金支撑，而转变为了信用，
+已经不再以黄金背书的货币，而转变为了信用货币，
 
 
 6
 00:01:34,840 --> 00:01:38,040
 paper backed by paper.
-也就是以纸抵纸。
+也就是没有抵押物单凭信用的纸币。
 
 
 7
@@ -91,7 +91,7 @@ Bundles of paper money were needed to buy a loaf of bread,
 16
 00:02:07,340 --> 00:02:11,180
 and a postage stamp cost millions.
-甚至连一张邮票都要花费数百万纸币。
+甚至连一张邮票都要花费数百万。
 
 
 17
@@ -151,13 +151,13 @@ This is M1, which is
 26
 00:02:40,260 --> 00:02:41,640
 paper money, currency
-纸币，货币
+纸币，现金货币
 
 
 27
 00:02:41,660 --> 00:02:44,640
 and also checking accounts and savings accounts.
-还有支票账户和储蓄帐户。
+还有支票账户和活期储蓄帐户。
 
 
 28
@@ -259,7 +259,7 @@ The frog doesn't understand that
 44
 00:03:35,740 --> 00:03:37,820
 it's sitting in boiling water until it's too late
-选择坐在温水中，直到为时已晚，
+青蛙在慢慢加热的温水中，等它意识到危险，为时已晚，
 
 
 45
@@ -271,7 +271,7 @@ and it's cooked.
 46
 00:03:39,360 --> 00:03:40,880
 That's the kind of
-这好像，
+这个例子正像是，
 
 
 47
@@ -295,61 +295,61 @@ all of the global Fiat currencies are kind of
 50
 00:03:49,660 --> 00:03:53,180
 turning on the printing presses at a disturbing rate.
-都在以令人不快的速度打印着钞票。
+都在以令人不安的速度打印着钞票。
 
 
 51
 00:03:53,260 --> 00:03:54,840
 But what counts as victory?
-但是什么统计是正向的呢？（怎么才能算保值成功？尤其是在你国家怎么才算抗通胀和守住财富）
+所以怎么才能不被通胀侵害？
 
 
 52
 00:03:54,840 --> 00:03:58,160
 What counts as being sound and
-什么统计能够提醒你，
+怎么才能算保值成功？
 
 
 53
 00:03:58,220 --> 00:04:01,920
 prudent with your particular country's currency?
-谨慎地选择或使用您所在国家/地区的货币？
+尤其是在你国家怎么才算抗通胀和守住财富
 
 
 54
 00:04:02,000 --> 00:04:06,360
 Well, it's inflating slightly less fast than the other guys, right?
-好吧，增长速度不如其他家伙快，对吧？
+好吧，通胀速度比其他人慢，对吧？
 
 
 55
 00:04:07,060 --> 00:04:08,580
 We still have this situation where
-我们仍旧会发生这样的情况，
+可这样的情况呢，
 
 
 56
 00:04:08,580 --> 00:04:10,580
 if you zoom out,
-如果缩小尺度，
+具体来看这里，
 
 
 57
 00:04:10,880 --> 00:04:12,660
 for example, for the US dollar
-举例，对于美元
+例如，这个图表里，对于美元
 
 
 58
 00:04:12,740 --> 00:04:15,040
 you go to like a 50-year time scale
-在50年的时间尺度，
+在50年的时间内，
 
 
 59
 00:04:15,140 --> 00:04:18,440
 you see basically an exponential growth curve.
-你显然看到了指数增长曲线。
+显然看到了货币总量的指数增长曲线。
 
 
 60
@@ -403,32 +403,31 @@ and the key insight to this
 68
 00:04:43,880 --> 00:04:45,640
 I won't go too much into the
-我不用说太多关于
+我不想说太多关于
 
 
 69
 00:04:45,640 --> 00:04:47,660
 geeky details, although
-很多geeky的细节，
+密码极客的技术细节，
 
 
 70
 00:04:47,720 --> 00:04:51,420
 I'm assuming that everyone here has an IQ of at least 140.
-我假设这里的每个人的智商至少为140。
+因为我估计在这里的听众（36c3黑客大会）的智商至少为140。
 
 
 71
 00:04:51,980 --> 00:04:53,120
 It wouldn't take you long
-不会花你很长时间
+看比特币白皮书不会花你很长时间
 
 
 72
 00:04:53,120 --> 00:04:54,880
-if you haven't already,
-如果你还没有，
-
+if you haven't already,，
+即使你还没有
 
 73
 00:04:55,120 --> 00:04:57,060
@@ -439,7 +438,7 @@ to look at this paper and study it.
 74
 00:04:57,060 --> 00:04:59,240
 But I would say that
-但是我想说，
+所以我想跳过那部分说的是，
 
 
 75
@@ -451,31 +450,31 @@ the Nobel Prize in Economics can not be given to an anonymous person.
 76
 00:05:04,100 --> 00:05:07,040
 But were Satoshi Nakamoto (a) real person
-但是中本聪是真实的人吗？
+中本聪是真实的人吗？
 
 
 77
 00:05:07,140 --> 00:05:08,980
 this clearly would be a
-他显然是一个
+显而易见的是如果他是自然人
 
 
 78
 00:05:09,020 --> 00:05:12,360
 Nobel prize-winning insight in economics
-诺贝尔经济学奖得主。
+应该是诺贝尔经济学奖得主。
 
 
 79
 00:05:12,420 --> 00:05:13,800
 in which
-嗯..
+在那些
 
 
 80
 00:05:13,800 --> 00:05:17,300
 economics is just the study of scarcity, really.
-实际上，经济学只是对稀缺性的研究。
+真正对经济学中稀缺性的研究里。
 
 
 81
@@ -535,13 +534,13 @@ these are all centrally governed bodies
 90
 00:05:42,200 --> 00:05:44,740
 that decide what to do with the money supply.
-他们决定如何处理货币供应。
+他们来决定货币供应。
 
 
 91
 00:05:44,740 --> 00:05:45,340
 Now
-现在，
+目前，
 
 
 92
@@ -553,13 +552,13 @@ the macroeconomic theory is that
 93
 00:05:47,620 --> 00:05:50,440
 the money supply will expand and contract
-货币供应量将扩大或收缩，
+货币供应量的扩大或收缩，
 
 
 94
 00:05:50,460 --> 00:05:55,660
 to match the actual economic output of the society.
-以匹配社会的实际经济产出。
+会以匹配社会的实际经济产出为目的。
 
 
 95
@@ -571,7 +570,7 @@ In other words, if a society is really productive and it makes a lot of stuff,
 96
 00:05:59,840 --> 00:06:05,060
 then the society is justified in inflating the money supply because they've been productive.
-那么社会有理由夸大货币供应量，因为它们一直在生产。
+那么就有理由增大货币供应量，因为它们希望印钞和生产创造的速度保持一致。
 
 
 97
@@ -589,31 +588,31 @@ countries get into trouble.
 99
 00:06:09,800 --> 00:06:11,180
 They get into debt.
-他们陷入了债务。
+他们陷入了债务危机。
 
 
 100
 00:06:11,240 --> 00:06:14,100
 They promise services to people
-他们承诺为人民服务，
+他们曾承诺为人民服务，
 
 
 101
 00:06:14,140 --> 00:06:16,600
 that are too expensive and then they can't pay for them.
-但付不起，
+但又无力兑现诺言，
 
 
 102
 00:06:16,620 --> 00:06:17,920
 They go into debt.
-他们负债累累。
+因为负债累累。
 
 
 103
 00:06:18,500 --> 00:06:19,720
 The problem is that
-问题是，
+另一个问题是，
 
 
 104
@@ -631,67 +630,67 @@ between the size of the money supply and the size of the underlying economy,
 106
 00:06:27,780 --> 00:06:29,960
 to get out of whack.
-为了摆脱困境，
+为了让我们摆脱困境，
 
 
 107
 00:06:31,180 --> 00:06:33,720
 Why is it interesting to have
-为什么这是个有趣的方向，
+一个有趣的探索是，
 
 
 108
 00:06:33,720 --> 00:06:36,160
 a source of scarcity that doesn't require
-稀缺资源不需要
+创造一种稀缺资源，它不需要
 
 
 109
 00:06:36,160 --> 00:06:40,320
 a central committee to be making decisions
-中央决策委员会进行决策，
+一个中央决策委员会来进行决策，
 
 
 110
 00:06:41,020 --> 00:06:42,400
 for that money
-这个稀缺资源就是钱
+这个东西就是真正意义上的钱
 
 
 111
 00:06:42,480 --> 00:06:44,460
 Is that it offers
-它提供了一种
+它将提供
 
 
 112
 00:06:44,540 --> 00:06:48,040
 a way for people to opt out
-人们可选择的方式
+另一种货币和价值体系方式
 
 
 113
 00:06:48,040 --> 00:06:50,960
 of the Fiat monetary system.
-法币体系之外的东东。
+也就是国家法币体系之外的东西。
 
 
 114
 00:06:51,360 --> 00:06:52,940
 It also provides a
-它还提供了一个
+它也化身为一个
 
 
 115
 00:06:52,940 --> 00:06:55,020
 kind of a fire under the feet of the
-对手
+强大的竞争对手
 
 
 116
 00:06:55,080 --> 00:06:59,380
 Fiat central banks to be maybe do a little bit of a better job.
-促使中央银行做得更好。
+促使各国中央银行做得更好。
 
 
 117
@@ -709,13 +708,13 @@ might have
 119
 00:07:03,700 --> 00:07:05,580
 fewer financial crises in the future
-减少金融危机的发生
+减少未来金融危机的发生
 
 
 120
 00:07:05,580 --> 00:07:07,180
 Maybe we won't have another
-也许我们不会再发生另一个
+也许我们不会再经历另一个
 
 
 121
@@ -751,13 +750,13 @@ in other words,
 126
 00:07:20,920 --> 00:07:24,200
 how is it that one person's Bitcoin is not
-怎么做到一个人他的比特币
+怎么确定比特币归属于哪个人
 
 
 127
 00:07:24,520 --> 00:07:26,780
 confused with another person's Bitcoin?
-不与另一个人的比特币混淆？
+不至于与另一个人的比特币混淆？
 
 
 128
@@ -805,7 +804,7 @@ imagining huge numbers
 135
 00:07:45,500 --> 00:07:50,360
 but we're talking about picking a number between 0 and 10 to the 77th.
-但我们谈论的是第77位介于0到10之间的数字。
+但我们谈论的是取一个0到10之间的数字的10^77。
 
 
 136
@@ -1345,7 +1344,7 @@ Scarcity in Bitcoin and Monero
 225
 00:12:19,760 --> 00:12:21,680
 they both have an original code base.
-他们都有原始的代码库（门罗不是比特的分叉也不是其他的分叉，只是借鉴了RingCT的代码）。
+他们都有原始的代码库（门罗不是比特的分叉也不是其他的分叉）。
 
 
 226
@@ -1357,7 +1356,7 @@ There are many, many projects in cryptocurrency in which
 227
 00:12:24,640 --> 00:12:27,540
 Bitcoin was simply forked and modified a little bit,
-比特币只是简单地分叉和修改了一点，
+很多只是简单地分叉比特币和修改了一点参数，
 
 
 228
@@ -1567,7 +1566,7 @@ the birthday problem is less of a concern the more addresses there are.
 262
 00:14:16,140 --> 00:14:19,720
 The emission deceleration is another difference between Bitcoin and Monero.
-供应减少是比特币和门罗币之间的另一个区别，
+供应量减少的速度是比特币和门罗币之间的另一个区别，
 
 
 263
@@ -1741,7 +1740,7 @@ but it's not really correct to say that this is "infinite supply" as
 291
 00:15:59,880 --> 00:16:02,400
 that's what gets bandied about.
-这就是被绑架的原因。
+这是门罗被谣言中伤的日常
 
 
 292
@@ -2131,7 +2130,7 @@ between the miners expense and the miners reward.
 356
 00:19:44,600 --> 00:19:48,560
 Now, unfortunately, economies of scale in silicon manufacturing
-现在，不幸的是，硅制造的规模经济，
+现在，不幸的是，集成电路制造的规模经济，
 
 
 357
@@ -2220,50 +2219,50 @@ There are further news items that are cause for concern,
 
 371
 00:20:42,900 --> 00:20:46,640
-for example, the growing trade war.
-例如，trade war。
+for example, the growing trade war bewtween China and West.
+例如，中国和西方世界愈演愈烈的贸易战。
 
 
 372
 00:20:47,040 --> 00:20:49,100
-There is a
-emm..
+There is a press article out that said
+有一篇新闻是这样说的
 
 
 373
 00:20:49,280 --> 00:20:52,060
-the ...
-emm..
+the Chinese government has recently decreed that
+中国政府最近颁布法令
 
 
 374
 00:20:52,060 --> 00:20:57,080
-only ...
-emm..
+only Chinese computer hardware is to be uesd in government offices
+中国政府办公室里只能使用中国制造的电脑硬件
 
 
 375
 00:20:57,080 --> 00:20:58,740
 starting in like a year.
-从一年开始
+从新一年开始
 
 
 376
 00:20:58,740 --> 00:21:02,820
-There's ....
-emm..
+There's some deadline by which of the dells and
+在某个截至日期前美国戴尔公司和其它
 
 
 377
 00:21:02,820 --> 00:21:06,820
 American companies' computers are to be kicked out,
-美国公司的计算机将被踢出去，
+美国公司的计算机将被踢出其市场，
 
 
 378
 00:21:06,820 --> 00:21:12,200
 so something similar could well happen for manufactured Bitcoin ASICS.
-因此，比特币ASICS可能会发生类似的情况。
+因此，比特币ASICS矿机可能会发生类似的情况。
 
 
 379
@@ -2275,25 +2274,25 @@ We kind of take for granted that there's a free flow of goods in the world
 380
 00:21:16,400 --> 00:21:21,800
 but what happens if not only does one part of the world control the manufacture
-但是,
+但是,如果只有一家工厂垄断了制造会怎样
 
 
 381
 00:21:21,800 --> 00:21:23,860
 of all of the crypto hash power
-所有的 hash power
+也就是所有的算力
 
 
 382
 00:21:23,860 --> 00:21:28,200
 but then is unable to even export it due to a trade war.
-它甚至无法出口。
+矿机甚至无法出口。
 
 
 383
 00:21:29,220 --> 00:21:35,200
 In Monero we tried to take this decentralization question quite seriously
-门罗试图认真对待这个权力下放，
+门罗对待这个问题严肃审慎，
 
 
 384
@@ -2317,7 +2316,7 @@ That is, when Bitcoin started
 387
 00:21:43,800 --> 00:21:47,680
 it was possible for just a regular person running
-一个普通人运行是可能的，
+一个普通人挖比特币是可能的，
 
 
 388
@@ -2425,7 +2424,7 @@ and 14 out of your 16 gigabytes of RAM are being eaten up,
 405
 00:22:49,180 --> 00:22:51,320
 you're probably going to notice it.
-你可能会注意到它。
+你怎么会注意不到它。
 
 
 406
@@ -2455,13 +2454,13 @@ that is not necessarily one that you want in a blockchain,
 410
 00:23:07,020 --> 00:23:09,200
 and that is access to layer one.
-那就是访问Layer1。
+那就是通过第一曾网络，也就是主网。
 
 
 411
 00:23:09,200 --> 00:23:13,560
 Bitcoin's 1 megabyte block limit caused a project fork.
-比特币的1兆字节限制导致了项目分叉，
+比特币的1兆字节的区块大小限制导致了项目分叉，（比特币社区分裂，目前三个币都声称自己是比特币）
 
 
 412
@@ -2533,7 +2532,7 @@ There's bulletproofs that went in recently
 423
 00:23:56,280 --> 00:24:01,040
 that reduce transaction sizes by a factor of 10, that went in.
-使得交易所需空间减少了10倍，
+使得交易中所需空间减少了10倍，
 
 
 424
@@ -2551,7 +2550,7 @@ because the transaction fee is based on the kilobyte size of the transaction.
 426
 00:24:27,770 --> 00:24:31,280
 This baby is just one second old.
-这个婴儿只有一秒钟，
+这个婴儿刚刚降生，
 
 
 427
@@ -2593,13 +2592,13 @@ His footprints are taken for identification.
 433
 00:24:47,440 --> 00:24:51,630
 He is still less than a minute old, and this is his first record.
-还不到一分钟，这是他的第一个记录。
+出生还不到一分钟，这是他的第一个记录。
 
 
 434
 00:24:53,900 --> 00:24:56,820
 His file has begun.
-他的档案已经开始。
+他的档案记录已经开始。
 
 
 435
@@ -2635,7 +2634,7 @@ a world stripped of privacy,
 440
 00:25:10,230 --> 00:25:12,820
 a world watched by Big Brother?
-大表哥看着的世界？
+老大哥总是看着你的世界？
 
 
 441
@@ -2647,7 +2646,7 @@ Or will this child have what Justice Brandeis
 442
 00:25:15,150 --> 00:25:16,630
 at the turn of the century labeled
-在世纪之交标记为
+在世纪之交声明的
 
 
 443
@@ -2677,7 +2676,7 @@ Bitcoin is transparent.
 447
 00:25:28,640 --> 00:25:33,160
 If you are new to crypto you might be under the impression
-如果你不熟悉加密，那么你可能会以为
+如果你不熟悉加密货币，或者外行，那么你可能会以为
 
 
 448
@@ -2689,19 +2688,19 @@ that if you have Bitcoin you're anonymous.
 449
 00:25:36,360 --> 00:25:38,620
 It's this "anonymous magic internet money"
-这就是魔法般的互联网匿名币
+以为比特币就是神奇的互联网匿名币
 
 
 450
 00:25:38,620 --> 00:25:40,620
 that you might have heard about.
-您可能已经听说过。
+就像你可能曾经听说过的。
 
 
 451
 00:25:40,620 --> 00:25:42,620
 Nothing could be further from the truth
-没有东西会离事实很远
+但是这跟事实相差甚远
 
 
 452
@@ -2713,7 +2712,7 @@ the popular press continues to push this misleading narrative.
 453
 00:25:47,440 --> 00:25:49,420
 Bitcoin is completely transparent
-比特币是完全透明的，
+事实上比特币是完全透明的，
 
 
 454
@@ -2725,25 +2724,25 @@ and if you read the Bitcoin white paper, it's all there.
 455
 00:25:52,120 --> 00:25:58,000
 It's specified that the sender, the receiver and how much got sent
-指定发送者，接收者以及发送了多少，
+发送者，接收者以及发送了多少，全部都公开和透明，
 
 
 456
 00:25:58,000 --> 00:26:03,380
 is recorded in plaintext and recorded in the blockchain.
-以明文记录保存在区块链中，
+以明文记录保存在区块链中，（不可更改，也删不掉）
 
 
 457
 00:26:03,380 --> 00:26:07,120
 Which, because it has all this proof-of-work up behind it --
-这是因为它背后拥有的工作量证明。
+这是它背后拥有的工作量证明决定的。
 
 
 458
 00:26:07,120 --> 00:26:10,120
 remember what I was saying about each transaction in the block
-记得我对区块中的每个交易所说的话，
+还记得我刚才怎么描述区块中的每个交易？
 
 
 459
@@ -2851,7 +2850,7 @@ that association, that metadata,
 476
 00:27:13,440 --> 00:27:16,260
 that marriage between a Bitcoin account number and your identity,
-比特币帐号和你的身份之间的映射，
+比特币帐号和你的身份之间的绑定，
 
 
 477
@@ -2863,7 +2862,7 @@ that doesn't change
 478
 00:27:18,540 --> 00:27:21,560
 because the blockchain is etched in stone forever.
-因为区块链永远被刻在石头上。
+因为区块链永远固若金汤。
 
 
 479
@@ -2875,13 +2874,13 @@ And it's constantly growing.
 480
 00:27:23,440 --> 00:27:28,300
 The job of the people trying to identify and "dox" everyone
-人们试图识别和“欺骗”所有人的工作
+有些人们的工作就是试图识别和“人肉搜索”所有人
 
 
 481
 00:27:28,300 --> 00:27:30,360
 is - it's just a waiting game.
-这只是一个等待的游戏。
+这是一场伺机而动的伏击。
 
 
 482
@@ -3025,7 +3024,7 @@ and on the back of that 10 euro banknote you see a nice list showing
 505
 00:29:00,620 --> 00:29:04,280
 everyone before you who owned that.
-拥有它的所有人。
+从它发行到流通到你手里，曾拥有它的每个人的名字。
 
 
 506
@@ -3037,7 +3036,7 @@ What could possibly be the negative consequences of this?
 507
 00:29:07,700 --> 00:29:11,400
 How about innocent people getting falsely accused
-无辜的人被错误指控如何
+例如无辜的人被错误指控
 
 
 508
@@ -3073,13 +3072,13 @@ and that is what is profoundly disturbing about having this.
 513
 00:29:31,720 --> 00:29:33,640
 And I call it a surveillance coin.
-我称之为监视硬币。
+我称比特币为监视币。
 
 
 514
 00:29:33,700 --> 00:29:36,460
 In a surveillance coin, it's not just value that transmits
-用监视硬币来说，传递的不仅仅是数值，
+用监视币来说，传递的不仅仅是数值，
 
 
 515
@@ -3163,7 +3162,7 @@ on top of what Bitcoin does that preserve privacy.
 528
 00:30:23,320 --> 00:30:25,180
 One is ring signatures.
-一种是环签名。
+首先是环签名。
 
 
 529
@@ -3211,13 +3210,13 @@ That protects the sender's identity.
 536
 00:30:53,860 --> 00:30:55,520
 How about the receivers identity?
-接收者的身份如何？
+其次接收者的身份如何？
 
 
 537
 00:30:55,520 --> 00:31:01,640
 Well, the receiver's Monero account does not appear unencrypted on the Monero blockchain.
-好吧，接收者的门罗币帐户同样不是透明的。
+接收者的门罗币帐户同样不是透明的。
 
 
 538
@@ -3235,7 +3234,7 @@ so that protects the recipients' privacy.
 540
 00:31:09,680 --> 00:31:12,720
 How about the amount that gets sent? Because there are
-汇出的金额如何保密？
+最后汇出的金额如何保密？
 
 
 541
@@ -3260,7 +3259,7 @@ That is covered with technology, RingCT,
 544
 00:31:23,860 --> 00:31:29,240
 which originally was developed for Bitcoin but actually first got implemented in Monero.
-它最初是为比特币开发的，但实际上首先在Monero中实现。
+它最初是为比特币开发的，但实际上在Monero中实现。（至今也没被比特币使用）
 
 
 545
@@ -3302,13 +3301,13 @@ which is really what you want in a money because the opposite,
 551
 00:31:50,100 --> 00:31:54,060
 if you have money that has perfect memory, like it is in Bitcoin,
-这确实是你想要的钱, 你难道更喜欢带记忆的钱吗，
+这确实是你想要的钱, 你难道更喜欢带记忆的钱吗，就像比特币这种
 
 
 552
 00:31:54,060 --> 00:32:02,540
 that unfortunately gets used to falsely associate activities of people who had nothing to do with each other.
-不幸的是，它习惯于错误地将彼此无关的人的活动与他人联系起来。
+总是不幸的错误地将彼此无关的人的活动与他人联系起来。
 
 
 553
@@ -3440,13 +3439,13 @@ This sort of kind of casual surveillance,
 574
 00:33:28,140 --> 00:33:30,640
 this invitation to be creepy on your neighbor
-这个邀请令你的邻居感到毛骨悚然
+这种情况，让人感到毛骨悚然
 
 
 575
 00:33:30,640 --> 00:33:35,220
 is something that is intrinsically part of Bitcoin.
-是比特币本质上的一部分。
+而这是比特币本质上的一部分。
 
 
 576
@@ -3476,31 +3475,31 @@ A slander that happens is that
 580
 00:33:48,140 --> 00:33:51,540
 "okay, so you have this money that doesn't have a history,
-“好吧，您有没有历史的钱，
+“好吧，门罗币是没有历史的钱，
 
 
 581
 00:33:51,540 --> 00:33:55,220
 sounds like only the criminals are going to want to use it".
-听起来只有罪犯会想要使用它”。
+可听起来只有罪犯会想要使用它”。
 
 
 582
 00:33:55,820 --> 00:34:00,280
 It is a slander I'm kind of tired of hearing.
-这是诽谤，我有点厌倦了。
+这种诽谤，我都听烦了。
 
 
 583
 00:34:00,280 --> 00:34:04,060
 Monero benefits people who have nothing to hide.
-门罗币使无处藏身的人们受益。
+门罗币当然使光明磊落的人们受益。
 
 
 584
 00:34:04,060 --> 00:34:05,720
 The chief benefit is that
-主要好处是
+门罗的主要好处是
 
 
 585
@@ -3542,8 +3541,8 @@ For example, let's say you have a business you sell stickers or
 
 591
 00:34:29,800 --> 00:34:33,040
-t-shirts or something very innocent T
-恤或很无辜的东西
+t-shirts or something very innocent 
+T恤或很正常的商品
 
 
 592
@@ -3555,7 +3554,7 @@ and you decide that you're going to accept Bitcoin for your business.
 593
 00:34:36,940 --> 00:34:40,860
 Unbeknownst to you, you get a t-shirt order from a gangster
-未知的是，您从黑帮那里获得了一件T恤订单
+不知情的情况下，您从黑帮那里获得了一件T恤订单
 
 
 594
@@ -3567,7 +3566,7 @@ or some drug dealer or someone like that.
 595
 00:34:44,360 --> 00:34:49,640
 You had no idea they're a drug dealer, they're just sending you some Bitcoin because you're a t-shirt seller
-您不知道他们是毒贩，他们只是向您发送一些比特币，因为您是T恤销售商
+您不知道他们是毒贩，他们只是向您发送一些比特币要买东西，因为您是T恤销售商，你只是卖东西收钱
 
 
 596
@@ -3585,37 +3584,37 @@ you need to get money from people.
 598
 00:34:53,140 --> 00:34:59,280
 But because the people watching the blockchain and putting faces and names
-但是，他们观察区块链
+但是，其他人通过观察区块链和真实的人之间的关联
 
 
 599
 00:34:59,280 --> 00:35:02,320
 on addresses on blockchain, don't know that
-通过地址
+单纯通过地址并不知道
 
 
 600
 00:35:02,320 --> 00:35:04,420
 they can try to program that in
-他们可以尝试将其编程分析
+可他们可以用计算机分析
 
 
 601
 00:35:04,420 --> 00:35:08,160
 but in the end, it's a probabilistic assessment of
-但最后，它可能认为
+最后，它很可能认为
 
 
 602
 00:35:08,160 --> 00:35:10,740
 is this bad person really related to you.
-这个坏人真的和你有关系
+这个坏人真的和你有关系，因为你跟黑帮，毒贩有资金往来
 
 
 603
 00:35:11,120 --> 00:35:16,020
 The only way that somebody finds out that they've been bitten by this is that
-有人发现自己被这种东西咬住的唯一方法是
+收款人大多时候不觉得有事，直到这种侥幸维持的平静被打破
 
 
 604
@@ -3627,13 +3626,13 @@ The only way that somebody finds out that they've been bitten by this is that
 605
 00:35:21,680 --> 00:35:25,500
 "Even the Fiat bank that I had associated with my crypto exchange"
-“甚至我与我的加密货币交易所关联的银行”
+“甚至与我的加密货币交易所关联的银行也被关了”
 
 
 606
 00:35:25,500 --> 00:35:27,960
 "now thinks that there's something suspicious about me."
-“现在认为我有些可疑。”
+“他们认为我有些可疑资金往来。”
 
 
 607
@@ -3645,13 +3644,13 @@ The only way that somebody finds out that they've been bitten by this is that
 608
 00:35:31,700 --> 00:35:35,840
 and it had nothing to do with anything that the person in question did.
-它与有关人员所做的一切无关。
+受害者与有关罪犯所做的一切无关。
 
 
 609
 00:35:35,840 --> 00:35:38,940
 It's just that the money itself has this
-只是金钱本身有这个
+只是比特本身有这个
 
 
 610
@@ -3663,13 +3662,13 @@ fatal flaw of being totally, (of) having a history behind it.
 611
 00:35:44,280 --> 00:35:45,980
 It's not really money,
-这不是真钱
+它不是真正意义上的货币
 
 
 612
 00:35:45,980 --> 00:35:48,320
 it's like beanie babies, it's like collectables.
-这就像无檐小便帽婴儿，就像收藏品。
+这就像豆豆公仔（类似于芭比娃娃），就像收藏品。
 
 
 613
@@ -3681,13 +3680,13 @@ It's like collectible items with their own serial number that are getting passed
 614
 00:35:53,160 --> 00:35:55,860
 it's not a real money.
-这不是真钱。
+比特币不是真正意义上的货币。
 
 
 615
 00:35:57,540 --> 00:36:01,560
 I want to leave with a Nobel Prize winning idea.
-我想离开一个获得诺贝尔奖的想法。
+我想引用一个诺贝尔奖获得者的理论。
 
 
 616
@@ -3729,19 +3728,19 @@ There are two kinds of used cars.
 622
 00:36:20,540 --> 00:36:24,540
 There are lemons, which are the bad used cars.
-有柠檬，这是坏的二手车。
+一种车我们叫它柠檬，代表坏的二手车。
 
 
 623
 00:36:24,540 --> 00:36:29,720
 Those are... you buy them and then they break immediately - those are lemons.
-那些是...您购买它们，然后它们立即破裂-那些是柠檬。
+那些是...您购买它们，然后它们立即破裂-那些破车俚语里就叫柠檬。
 
 
 624
 00:36:29,720 --> 00:36:33,380
 The other kind of used car is a peach - these are the good cars.
-另一种二手车是桃子-这些是好车。
+另一种二手车是桃子-桃子代表是好车。
 
 
 625
@@ -3759,25 +3758,25 @@ They change the oil, they did all the work to make sure that they have a nice ca
 627
 00:36:41,720 --> 00:36:46,700
 Sellers know whether they're selling a lemon or a peach.
-卖家知道他们在卖柠檬还是桃子。
+卖家知道他们在卖柠檬车还是桃子车。
 
 
 628
 00:36:46,700 --> 00:36:50,020
 The seller knows that. If you're selling a lemon, you know it.
-卖方知道这一点。如果您要卖柠檬，那就知道了。
+卖方知道这一点。如果你卖破车，你怎么可能不知道。
 
 
 629
 00:36:50,020 --> 00:36:52,580
 And you're just trying to make money off the selling of the lemon.
-而且您只是想通过卖柠檬来赚钱。
+而且卖家只是想通过卖柠檬破车来赚钱。
 
 
 630
 00:36:52,580 --> 00:36:56,740
 If you have a peach, you know it because you've been doing maintenance on that car.
-如果您有桃子，那您就知道了，因为您一直在对该车进行保养。
+如果你卖桃子车，那你也就知道了，因为您一直在对该车进行保养。
 
 
 631
@@ -3789,7 +3788,7 @@ However, the buyer of the car is ignorant
 632
 00:37:00,100 --> 00:37:08,620
 because both lemon sellers and peach sellers make extra sure that the paint job on the car is extra shiny.
-因为柠檬销售商和桃子销售商都必须确保汽车上的油漆工作特别有光泽（表面工作）。
+因为柠檬销售商和桃子销售商都会确保汽车上的油漆特别有光泽（表面工作）。
 
 
 633
@@ -3867,7 +3866,7 @@ So the lemon sellers are happy.
 645
 00:37:58,900 --> 00:38:03,000
 There are more suckers out there to buy their lemons.
-还有更多的吸盘可以买柠檬。
+还会吸引更多人买他们的柠檬破车。
 
 
 646
@@ -3879,7 +3878,7 @@ How about the peach sellers? The peach sellers are the ones who did the work to 
 647
 00:38:08,040 --> 00:38:12,400
 and now they're seeing this offer price which is less than the peach price.
-现在他们看到这个报价比桃子的价格还低。
+现在他们看到这个报价比桃子的成本价格还低。
 
 
 648
@@ -3933,13 +3932,13 @@ their chance of buying a lemon has just gone up
 656
 00:38:44,600 --> 00:38:47,020
 and the price that they're going to offer goes down.
-他们要提供的价格下降了。
+他们愿意买车所出的价格下降了。（因为更大概率买破车）
 
 
 657
 00:38:47,020 --> 00:38:52,060
 And you have this race to the bottom in which the offer price keeps going down, down, down.
-而且您在底价竞价中一直处于下降状态。
+而且市场在这种恶性循环里，底价竞价中一直处于下降状态。
 
 
 
@@ -3958,13 +3957,13 @@ because they are not being justly compensated for the work that they've done.
 660
 00:39:00,300 --> 00:39:03,460
 What does it have to do the cryptocurrency?
-加密货币有什么作用？
+这个故事对加密货币有什么启发？
 
 
 661
 00:39:03,720 --> 00:39:05,780
 Surveillance coins
-监控硬币
+比特币这种监控币
 
 
 662
@@ -4000,13 +3999,13 @@ You don't know if you accept this Bitcoin...
 667
 00:39:24,900 --> 00:39:31,320
 "Am I going to be just fine or am I going to be falsely accused of some who knows what?"
-“我会很好吗？还是我会被错误地指控某些知道什么的人？”
+“这个币干净吗？还是我会被错误地指控某些犯罪？”（洗钱，毒贩，交易所被盗的币）
 
 
 668
 00:39:31,320 --> 00:39:37,260
 Who knows what possible crime could have been done with the person who used to own that Bitcoin.
-谁知道与曾经拥有该比特币的人一起可能犯下的罪行。
+谁知道与曾经拥有该比特币的人可能犯下的罪行。
 
 
 669
@@ -4030,7 +4029,7 @@ What in this paper is identified as
 672
 00:39:51,720 --> 00:39:56,520
 a means to avoid this race to the bottom -- is a signal.
-避免这场竞赛走入低谷的手段是一种信号。
+用一个均衡的状态避免这种恶行循环。
 
 
 673
@@ -4048,7 +4047,7 @@ and there's probably something similar to this in Europe,
 675
 00:40:02,180 --> 00:40:05,560
 where you can type in the serial number, the VIN number of a car
-您可以在其中输入序列号，汽车的VIN码
+您可以在二手车系统中输入序列号，也就是汽车的VIN码（独一无二的该车代码）
 
 
 676
@@ -4084,7 +4083,7 @@ It exists in the United States. It's called Carfax
 681
 00:40:17,940 --> 00:40:22,820
 and you type in the serial number of a car and all of its kind of past history comes up.
-您输入汽车的序列号，就会显示所有过去的历史。
+您输入汽车的序列号，就会显示所有过去的历史。（新西兰也有这种系统）
 
 
 682
@@ -4240,7 +4239,7 @@ You have to basically submit all this stuff just to be deemed worthy enough
 707
 00:41:50,580 --> 00:41:54,360
 to participate in this cryptocurrency economy.
-参与这种加密货币经济。
+参与这种加密货币交易。
 
 
 708
@@ -4288,67 +4287,67 @@ basically to prove their worthiness in this whole system.
 715
 00:42:27,120 --> 00:42:29,100
 Just to take a step back,
-只是退后一步，
+现在说回来之前的话题，
 
 
 716
 00:42:29,100 --> 00:42:31,500
 I've gone over scarcity in Bitcoin and Monero
-我已经克服了比特币和门罗币的稀缺性
+我已经阐述了比特币和门罗币的稀缺性
 
 
 717
 00:42:31,500 --> 00:42:34,980
 and I've gone over fungibility and privacy in Bitcoin and Monero.
-我已经讨论了比特币和门罗币的可替代性和隐私性。
+也讨论了比特币和门罗币的可替代性和隐私性。
 
 
 718
 00:42:34,980 --> 00:42:36,340
 And if we step back,
-如果我们退后一步，
+如果我们回到一开始的话题，
 
 
 719
 00:42:36,340 --> 00:42:41,360
 I can identify what I think is a reason why crypto is not going to go away
-我可以确定我认为是加密技术不会消失的原因
+我可以很确定，我认为加密技术不会消失的原因
 
 
 720
 00:42:41,360 --> 00:42:43,780
 why it's here to stay.
-为什么它在这里停留。
+为什么它在世界里长存。
 
 
 721
 00:42:44,220 --> 00:42:45,760
 Now we have the internet,
-现在我们有了互联网，
+就是现在我们有了互联网，
 
 
 722
 00:42:45,760 --> 00:42:48,940
 we have mobile telecommunication
-我们有移动通讯
+我们有移动通信设备（智能手机）
 
 
 723
 00:42:48,940 --> 00:42:53,000
 everybody here has at least one device
-这里的每个人至少都有一个设备
+这里的每个人至少都有一台电子设备
 
 
 724
 00:42:53,000 --> 00:42:56,480
 that is extremely good at copying packets.
-这非常擅长复制数据包。
+它非常擅长复制数据包。
 
 
 725
 00:42:56,760 --> 00:42:59,960
 That's what cellphones are. They are just packet copiers.
-那就是手机。他们只是小复印机。
+手机，类似于是小复印机。
 
 
 726
@@ -4366,7 +4365,7 @@ you are copying packets from the email server to your phone to check.
 728
 00:43:06,400 --> 00:43:12,840
 We've become just extraordinarily efficient at copying ones and zeros globally.
-在全局复制1和0方面，我们已经变得异常高效。
+在全局复制1和0代码方面，我们已经变得异常高效。
 
 
 729
@@ -4378,7 +4377,7 @@ The marginal cost of shuttling these bits around is zero.
 730
 00:43:16,940 --> 00:43:19,180
 What is rare in that world,
-什么是那个世界上稀有的东西
+什么是虚拟世界上稀有的东西
 
 
 731
@@ -4522,19 +4521,19 @@ Their face values, however, are guaranteed --
 754
 00:44:35,320 --> 00:44:38,510
 not only by huge reserves of gold and silver
-不仅拥有大量的黄金和白银，
+不仅是大量的黄金和白银储备，
 
 
 755
 00:44:38,510 --> 00:44:40,600
 but by the stability of the government
-但由于政府的稳定
+还由政府的稳定背书
 
 
 756
 00:44:40,600 --> 00:44:42,520
 which fixed those values.
-他们固定了这些值。
+他们共同确保了这些价值。
 
 
 757
@@ -4552,13 +4551,13 @@ that our government is strong and secure,
 759
 00:44:47,310 --> 00:44:48,620
 they will continue freely
-他们将继续自由
+法币将继续自由
 
 
 760
 00:44:48,620 --> 00:44:50,680
 to accept and spend its money
-接受并花钱
+接受并花钱他们的货币
 
 
 761
@@ -4600,13 +4599,13 @@ I was born American, so I use the US dollar.
 767
 00:45:11,050 --> 00:45:13,390
 That kind of gets told to you at birth
-这种在出生时就告诉你
+这种在出生时就被告知
 
 
 768
 00:45:13,390 --> 00:45:15,990
 as an accident of where you were born.
-作为您出生地的意外。
+随机且与生俱来的。
 
 
 769
@@ -4672,7 +4671,7 @@ A similar sort of thing is now possible, because of Nakamoto consensus,
 779
 00:46:00,450 --> 00:46:03,850
 almost 11 years and a month old.
-快11年零一个月了。
+它提出快11年零一个月了。
 
 
 780
@@ -4684,19 +4683,19 @@ Now it's possible for each one of us to kind of pick a group,
 781
 00:46:08,630 --> 00:46:10,850
 "pick your own church," pick your own...
-“选择自己的教堂”，选择自己的教堂...
+“选择自己的教堂”，选择自己的...
 
 
 782
 00:46:10,890 --> 00:46:12,450
 like, that's not really quite right
-就像，那不是很正确
+就像，这不是很确切的比喻
 
 
 783
 00:46:12,450 --> 00:46:13,450
 but I think you get what I'm saying.
-但我想你明白我的意思。
+但我想你们明白我的意思。
 
 
 784
@@ -4726,37 +4725,37 @@ Bitcoin is one such group that apparently doesn't
 788
 00:46:30,730 --> 00:46:34,090
 really, is not too bothered by the fact that
-的确不是被以下事实困扰
+因为你未来理想的比特币总会被以下事实困扰
 
 
 789
 00:46:34,090 --> 00:46:39,410
 the currency has this perfect knowledge of history for every single coin that's out there.
-对于存在的每种硬币，该货币都具有这种完美的历史知识。
+对于存在的每个比特币，该货币都具有可以称得上'完美'的历史记录。
 
 
 790
 00:46:39,410 --> 00:46:45,550
 And that is a large association of people all of whom have the shared belief
-那是一个所有人都有共同信念的大团体
+并且即便这样很多绝大部分比特币成员仍旧认为这是他们的共识
 
 
 791
 00:46:45,550 --> 00:46:51,330
 that the token that they are keeping track of on their blockchain is money
-他们在区块链上一直跟踪的代币就是金钱
+既他们在区块链上可以一直被跟踪的代币就是金钱
 
 
 792
 00:46:51,330 --> 00:46:54,230
 and there's a similar sort of community,
-还有一个类似的社区，
+还有一个类似监视币的社区，
 
 
 793
 00:46:54,230 --> 00:46:59,430
 sort of formation that happens with the cryptocurrencies.
-加密货币发生的某种形式。
+某种程度上加密货币发展也会格式化。
 
 
 794
@@ -4768,13 +4767,13 @@ I'd like to share some of my observations about the Monero community
 795
 00:47:03,290 --> 00:47:07,050
 and by the way, I'm volunteering to be here.
-顺便说一句，我来自这里。
+顺便说一句，我自愿来这里发表演讲。
 
 
 796
 00:47:07,050 --> 00:47:10,070
 I've paid my own dime to come out here from Boston
-我付了我自己的钱从波士顿出来
+我自己付钱从波士顿来这
 
 
 797
@@ -4786,7 +4785,7 @@ to kind of share what I think
 798
 00:47:14,610 --> 00:47:18,430
 my understanding of the current status of cryptocurrencies with you.
-我对您与加密货币当前状态的了解。
+与你分享我对加密货币当前状态的理解。
 
 
 799
@@ -4804,7 +4803,7 @@ There is no company behind it.
 801
 00:47:23,710 --> 00:47:29,370
 There's no pre-mine, there's no scammy way for people to get rich.
-没有预采矿，没有骗人的致富途径。
+没有预挖，没有人骗其他人而暴富。
 
 
 802
@@ -4834,19 +4833,19 @@ no central company steering things to kind of make a profit.
 806
 00:47:46,670 --> 00:47:50,690
 No, it's totally open-source grassroots.
-不，这是完全开源的草根。
+是的，这是完全开源的草根。
 
 
 807
 00:47:51,090 --> 00:47:55,690
 Just normal everyday people choosing to run some
-就像普通人每天选择跑步
+就像普通人每天选择运行
 
 
 808
 00:47:55,690 --> 00:47:57,790
 peer-to-peer network software on their computer
-他们计算机上的对等网络软件
+他们计算机上的相应网络软件
 
 
 809
@@ -4870,61 +4869,61 @@ The Monero community, I find it to be idealistic scientific and yet very welcomi
 812
 00:48:13,370 --> 00:48:15,150
 It's very chill.
-他们很冷(怕冷勿入).
+他们很酷.
 
 
 813
 00:48:15,550 --> 00:48:20,110
 There's like a lot of alpha geek happening in some other coins,
-其他一些硬币中也有许多 alpha geek，
+其他一些社区中也有许多 alpha geek（天才程序员）
 
 
 814
 00:48:20,110 --> 00:48:24,090
 in which people are just really out there on Twitter
-在推特上，
+在推特上，很多很出众的
 
 
 815
 00:48:24,090 --> 00:48:28,610
 and they just really want everyone to know that they're the "alpha-est" geek out there.
-他们只是真的希望每个人都知道他们是那里最“阿尔法”的怪胎。
+但他们只是希望每个人都知道他们是那里最天才的计算机程序员
 
 
 816
 00:48:28,610 --> 00:48:31,250
 That kind of thing is refreshingly absent in Monero.
-在Monero中，这种事情令人耳目一新。
+在Monero社区里就不是这样。
 
 
 817
 00:48:31,250 --> 00:48:32,550
 It's very chill.
-他们真的很冷（忌寒误入）。
+他们真的很酷。
 
 
 818
 00:48:32,550 --> 00:48:36,390
 It's one thing that kind of I like about this whole vibe here at c3.
-我喜欢c3上的整个氛围，这是一回事。
+我喜欢36c3黑客大会上的整个氛围。
 
 
 819
 00:48:36,390 --> 00:48:39,430
 It's very chill, there's just like a lot of people lounging
-非常寒冷，就像很多人闲逛一样
+非常酷，天涯何必曾相识（里面各个都是认才，说话又好听）
 
 
 820
 00:48:39,430 --> 00:48:43,750
 and that sort of shared relaxed atmosphere is something that I've
-而那种共享轻松的氛围是我
+而那种共享轻松的氛围是我曾经也
 
 
 821
 00:48:43,750 --> 00:48:47,430
 personally observed at the Monero meetups that I've been to.
-在我去过的门罗聚会上亲自观察。
+在我去过的门罗聚会上亲自感受到的。
 
 
 822
@@ -4972,7 +4971,7 @@ external auditors to look at implementations of code.
 829
 00:49:12,270 --> 00:49:16,850
 Once those are clean, then we go to release.
-一旦清理干净，我们便开始释放。
+一旦校验结束，我们便开始应用。
 
 
 830
@@ -5014,19 +5013,19 @@ the entire blockchain was stored in RAM
 836
 00:49:38,330 --> 00:49:39,830
 if you can believe that.
-如果你信的话。
+简直不敢让人相信的。
 
 
 837
 00:49:41,590 --> 00:49:44,690
 So, that kind of puts a hard limit on how big your blockchain can be
-因此，这对您的区块链空间有多大施加了硬性限制
+也就是说，当时对门罗用户的区块链空间施加了很大硬性要求
 
 
 838
 00:49:44,690 --> 00:49:46,430
 if it has to fit in RAM.
-如果必须放入RAM。
+因为当时必须放入RAM。
 
 
 839
@@ -5068,13 +5067,13 @@ It goes Bitcoin, Ethereum and then Monero.
 845
 00:50:14,750 --> 00:50:16,710
 It turns out that,
-事实证明，
+坦率地说，
 
 
 846
 00:50:16,890 --> 00:50:18,150
 well, in my opinion,
-好吧，我认为，
+在我看来，
 
 
 847
@@ -5104,7 +5103,7 @@ a shared idea of scarcity, then money?
 851
 00:50:34,070 --> 00:50:37,690
 But it turns out that money is non-trivial to get right.
-但是事实证明，赚钱是不平凡的。
+但是事实证明，赚钱是不容易的。
 
 
 852
@@ -5158,7 +5157,7 @@ and has made great improvements in that.
 860
 00:51:04,030 --> 00:51:07,650
 And the way that the social contract is,
-社会契约的方式是
+这也是社区共识进化的方式
 
 
 861
@@ -5170,7 +5169,7 @@ I just can't see this happening in Bitcoin.
 862
 00:51:12,170 --> 00:51:15,410
 There are volunteer workgroups for community outreach
-有志愿工作组开展社区外联活动
+门罗币有志愿工作组开展社区外联活动
 
 
 863
@@ -5182,13 +5181,13 @@ and, as I said before,
 864
 00:51:17,150 --> 00:51:24,690
 all of the funding to support all of this is completely 100% shaking the tin cup
-所有支持这一切的资金完全是100％摇动锡杯
+所有支持这一切的资金完全是100％募捐而来
 
 
 865
 00:51:24,690 --> 00:51:28,130
 and asking for people to donate out of the kindness of their hearts.
-并要求人们出于自己的善意而捐款。
+人们出于自己的善意而捐款。
 
 
 866
@@ -5200,7 +5199,7 @@ Monero社区中的人们做到了。
 867
 00:51:31,390 --> 00:51:33,310
 They actually step up to the plate
-他们实际上站到了盘子上，
+他们挺身而出，
 
 
 868
@@ -5219,7 +5218,7 @@ But if you look at the annual budget
 870
 00:51:38,370 --> 00:51:41,290
 if Monero were a company, which it's not --
-如果门罗币是一家公司，那不是
+假设门罗币是一家公司，当然门罗不是公司
 
 
 871
@@ -5255,26 +5254,26 @@ often on their spare time.
 876
 00:52:01,040 --> 00:52:02,960
 All right.
-好吧。
+好的。
 
 
 877
 00:52:06,330 --> 00:52:07,330
 So, just to summarize,
-所以，总结一下，
+让我们总结一下，
 
 
 878
 00:52:07,330 --> 00:52:12,430
 Monero is what Bitcoin newbs think they bought.
-门罗币是比特币新人们认为他们购买的东西。
+门罗币是比特币新手认为他们购买的东西。
 
 
 
 879
 00:52:13,570 --> 00:52:16,230
 I'm going to switch hats a little bit.
-我要稍微改一下帽子。
+我要稍微多说一点。
 
 
 880
@@ -5305,7 +5304,7 @@ And of course because there have been these spectacular gains in the price of Bi
 884
 00:52:32,330 --> 00:52:34,110
 it gets discussed a lot.
-讨论很多。
+讨论了很多该方案。
 
 
 885
@@ -5317,19 +5316,19 @@ One thing that is positive about Monero's culture is that it is generally
 886
 00:52:39,150 --> 00:52:42,530
 gauche to talk about prices,
-讨论价格的专家，
+不讨论价格的，
 
 
 887
 00:52:42,530 --> 00:52:46,610
 and returns, and the price going to the moon.
-回报，价格飞涨。
+门罗社区不讨论回报，价格飞涨。
 
 
 888
 00:52:47,030 --> 00:52:49,250
 I hope that, well --
-我希望那样，好吧。
+当然我希望如此，好吧。
 
 
 889
@@ -5359,13 +5358,13 @@ and that, coupled with the Nobel Prize that I just explained --
 893
 00:53:05,730 --> 00:53:12,090
 hopefully, I can put a respectable enough academic sheen on the discussion of
-希望我可以在讨论方面给予足够可观的学术光泽
+希望我可以在门罗币价值讨论方面给予足够可观的学术知识
 
 
 894
 00:53:12,090 --> 00:53:18,790
 the finance and economics to be forgivable by the Monero community.
-门罗币社区可以宽恕的金融和经济学。
+门罗币社区可能忽略了金融和经济学层面。
 
 
 895
@@ -5419,7 +5418,7 @@ there are ETFs that will only invest in those companies.
 903
 00:53:45,570 --> 00:53:48,990
 It's possible to be basically an ideological investor
-基本上可以成为意识形态投资者
+基本上可以称为意识形态投资者
 
 
 904
@@ -5509,19 +5508,19 @@ and we have little or no control over that.
 918
 00:54:46,350 --> 00:54:48,090
 It's done in the name of security
-以安全的名义完成
+以安全的名义监视
 
 
 919
 00:54:48,090 --> 00:54:52,090
 but unfortunately, if you push that line too far,
-但不幸的是，如果您将该线推得太远，
+但是如果这条路走的太远，
 
 
 920
 00:54:52,090 --> 00:54:55,430
 you cease to become an open and free society.
-你不再成为一个开放和自由的社会。
+我们将不再成为一个开放和自由的社会。
 
 
 921
@@ -5612,13 +5611,13 @@ they find their heads consumed with all these worries about traceability
 935
 00:55:53,850 --> 00:55:55,530
 and so on.
-等等。
+还有其它的担忧。
 
 
 936
 00:55:55,530 --> 00:55:57,210
 It's refreshing to come to Monero
-来到Monero世界之后令人耳目一新
+但来到Monero世界之后令人耳目一新
 
 
 937
@@ -5666,7 +5665,7 @@ Also, capital gains taxes:
 944
 00:56:15,370 --> 00:56:17,930
 at least in America, and I believe in Germany too,
-至少在美国，我也相信德国，
+至少在美国，我也相信在德国，
 
 
 945
@@ -5684,19 +5683,19 @@ That's what I've read. Is that right in Germany? (nods)
 947
 00:56:25,510 --> 00:56:28,390
 Basically, the tax law
-税法
+税法根本上就会
 
 
 948
 00:56:28,390 --> 00:56:32,930
 promotes looking at those cryptocurrency projects that are solid
-促进关注那些扎实的加密货币项目
+促进那些扎实的加密货币项目
 
 
 949
 00:56:32,930 --> 00:56:35,890
 and have a real reason to exist
-并有真实的理由存在
+并让加密货币有真实的理由存在
 
 
 950
@@ -5750,7 +5749,7 @@ built into the next release
 958
 00:57:04,730 --> 00:57:06,370
 basically, this whole mentality of
-基本上，
+基本上，他们的心态就是
 
 
 959
@@ -5762,7 +5761,7 @@ basically, this whole mentality of
 960
 00:57:11,450 --> 00:57:15,690
 which of course falls completely flat on its face in any open-source project
-当然，在任何开源项目中，哪一个完全落在了脸上
+当然，在任何开源项目中，那些人都会失望
 
 
 961
@@ -5773,8 +5772,8 @@ as that's not how changes happen in Linux.
 
 962
 00:57:18,790 --> 00:57:21,270
-Nobody goes to Linus and demands,
-没有人去寻求Linus的要求，
+Nobody goes to Linux and demands,
+没有人去寻求Linux系统的要求，
 
 
 963
@@ -5846,13 +5845,13 @@ on behalf of the project.
 974
 00:57:54,550 --> 00:57:58,410
 They will do things like take self-custody of their coins
-他们会做一些事情，例如自己保管硬币
+他们会做一些事情，例如自己保管自己的币
 
 
 975
 00:57:58,410 --> 00:58:01,850
 and not just leave them on exchange - which lots of people do.
-而不仅仅是让他们交流-很多人都这样做。
+而不仅仅是让他们把币放交易所-很多人都这样做。
 
 
 976
@@ -6470,7 +6469,7 @@ the US bond market and gold.
 1078
 01:04:43,060 --> 01:04:46,080
 For example, this square here
-例如，这里的这个广场
+例如，这里的这个
 
 
 1079
@@ -6482,7 +6481,7 @@ is showing the intersection of Monero and Bitcoin.
 1080
 01:04:49,400 --> 01:04:52,800
 On this axis you see the Monero return,
-在此轴上，您可以看到门罗币回返，
+在此轴上，您可以看到门罗币反弹，
 
 
 1081
@@ -6728,13 +6727,13 @@ That's a different question.
 1121
 01:07:16,280 --> 01:07:18,580
 Let me show this and then I'll finish.
-让我展示一下，然后结束。
+让我展示一下，然后结束演讲。
 
 
 1122
 01:07:18,580 --> 01:07:23,500
 I'm sorry, I'm going over -- but I guess there's no one after me --
-抱歉，我要走了-但我想我后面没有人-
+抱歉，我快讲完了-但我想我后面没有其他发言人了-
 
 
 1123
@@ -6902,19 +6901,19 @@ that anyone has when thinking about cryptocurrency as a possible investment.
 1150
 01:09:04,380 --> 01:09:07,620
 It's this baby. It's still a baby.
-是这个宝贝还是个孩子
+它还是个孩子
 
 
 1151
 01:09:07,620 --> 01:09:11,640
 It's amazing because it's gone up orders of magnitude
-太神奇了，因为它上升了几个数量级
+虽然很神奇了，因为它上升了几个数量级
 
 
 1152
 01:09:11,640 --> 01:09:16,020
 and yet compared to other assets, it's still a baby.
-与其他资产相比，它仍然是婴儿。
+可与其他资产相比，它仍然是婴儿。
 
 
 1153
@@ -7184,7 +7183,7 @@ I think overly worry about
 1197
 01:11:43,320 --> 01:11:49,460
 because I think we geeks tend to think of governments as being like Reddit moderators
-因为我认为我们的怪胎倾向于认为政府就像Reddit主持人一样
+因为我认为我们的天才们倾向于认为政府就像Reddit主持人一样
 
 
 1198
