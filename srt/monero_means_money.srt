@@ -136,7 +136,7 @@ and also checking accounts and savings accounts.
 28
 00:02:44,820 --> 00:02:47,960
 It's cash and things that act like cash
-现金，或其作用类似于现金。
+现金，或其它类似于现金的东西。
 
 29
 00:02:48,120 --> 00:02:49,160
@@ -146,12 +146,12 @@ all together,
 30
 00:02:49,320 --> 00:02:51,560
 and each of these plots is showing
-这些图的横坐标呢，
+这些图显示的是，
 
 31
 00:02:51,640 --> 00:02:55,660
 since October 2008, which is when the Bitcoin white paper came out.
-是自2008年10月以来，也就是比特币白皮书发布的时间点开始。
+自2008年10月以来（的变化），也就是比特币白皮书发布的时间点开始。
 
 32
 00:02:55,820 --> 00:02:59,280
@@ -211,12 +211,12 @@ but it's like the frog in boiling water, right?
 43
 00:03:33,840 --> 00:03:35,740
 The frog doesn't understand that
-青蛙好像不明白，
+青蛙不明白（一个道理），
 
 44
 00:03:35,740 --> 00:03:37,820
 it's sitting in boiling water until it's too late
-青蛙在慢慢加热的温水中，等它意识到危险，为时已晚，
+它在慢慢加热的温水中，等它意识到危险，为时已晚，
 
 45
 00:03:37,820 --> 00:03:39,260
@@ -286,12 +286,12 @@ for example, for the US dollar
 58
 00:04:12,740 --> 00:04:15,040
 you go to like a 50-year time scale
-在50年的时间内，
+时间比例设为50年
 
 59
 00:04:15,140 --> 00:04:18,440
 you see basically an exponential growth curve.
-显然看到了货币总量的指数增长曲线。
+你显然看到了货币总量的指数增长曲线。
 
 60
 00:04:19,800 --> 00:04:23,040
@@ -666,7 +666,7 @@ People are really bad at
 134
 00:07:43,540 --> 00:07:45,440
 imagining huge numbers
-想象大量的数字，
+想象巨大的数字，
 
 135
 00:07:45,500 --> 00:07:50,360
