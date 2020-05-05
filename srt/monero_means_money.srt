@@ -651,12 +651,12 @@ what they're really doing is picking a number.
 131
 00:07:35,180 --> 00:07:37,800
 They're just picking a number out of a
-他们只是从一堆号码中挑选一个号码
+他们只是从一堆256位字段的号码中
 
 132
 00:07:37,840 --> 00:07:40,580
 256-bit field.
-256位字段。
+挑选一个号码
 
 133
 00:07:42,040 --> 00:07:43,520
@@ -671,7 +671,7 @@ imagining huge numbers
 135
 00:07:45,500 --> 00:07:50,360
 but we're talking about picking a number between 0 and 10 to the 77th.
-但我们谈论的是取一个0到10之间的数字的10^77。
+但我们谈论的是取一个0到10^77之间的一个数字。
 
 136
 00:07:51,300 --> 00:07:53,440
@@ -831,7 +831,7 @@ enforced by an open network of miners
 167
 00:09:17,720 --> 00:09:19,940
 which are really gossipy accountants
-真正的会计师，
+他们是真正的会计师，
 
 168
 00:09:20,460 --> 00:09:26,440
@@ -886,7 +886,7 @@ How do we know that that's not going to get corrupted over time?
 178
 00:09:51,100 --> 00:09:53,620
 Because, as we all know, there's bit rot.
-因为，腐败。
+因为，比特衰减。
 
 179
 00:09:53,620 --> 00:09:55,780
@@ -1046,7 +1046,7 @@ kind of touching the paper,
 210
 00:11:31,920 --> 00:11:34,020
 rubbing it, erasing little bits
-擦，擦一点，
+摩擦纸，擦一点，
 
 211
 00:11:34,100 --> 00:11:38,000
@@ -1161,7 +1161,7 @@ In Bitcoin the secp256k1 elliptical curve is used
 233
 00:12:39,600 --> 00:12:42,860
 whereas in Monero it's ed25519.
-而在Monero中则是ed25519。
+而在门罗币中则是ed25519。
 
 234
 00:12:43,160 --> 00:12:48,140
@@ -1186,7 +1186,7 @@ That's true in both Bitcoin and Monero.
 238
 00:12:57,120 --> 00:12:59,420
 Where we start to differ is that
-我们开始有所不同的是
+有所不同的是
 
 239
 00:12:59,500 --> 00:13:02,060
@@ -1241,12 +1241,12 @@ in Bitcoin it's 10 to the 60th, in Monero it's 10 to the 76th.
 249
 00:13:32,300 --> 00:13:36,080
 There are more addresses available in Monero,
-门罗币的地址更多（此外门罗还有子地址功能，可以每次使用不同的接收地址来提升隐私性），
+门罗币的可用地址更多（此外门罗还有子地址功能，可以每次使用不同的接收地址来提升隐私性），
 
 250
 00:13:36,160 --> 00:13:38,740
 which means if you're worried about the birthday problem
-这意味着如果你担心 “生日问题”
+这意味着如果你担心（不用担心） “生日问题”
 
 251
 00:13:38,740 --> 00:13:41,140
@@ -1261,7 +1261,7 @@ if you have a group of 30 people,
 253
 00:13:43,140 --> 00:13:48,800
 chances are much higher than you would expect that 2 people out of those 30 have the same birthday.
-2个人生日相同的几率要比30生日相同的几率高的多
+30人中的2个人，生日相同的几率要比你想像的高得多
 
 254
 00:13:49,140 --> 00:13:53,380
