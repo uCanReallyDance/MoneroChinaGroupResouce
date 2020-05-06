@@ -4809,7 +4809,7 @@ Nobody goes to Linux and demands,
 963
 00:57:21,270 --> 00:57:25,950
 makes ultimatums on what they want to see in the next rollout.
-对他们希望在下一次发布中看到的内容进行最后通.。
+对他们想在下一次发布中看到的内容下最后通碟。
 
 964
 00:57:26,230 --> 00:57:28,610
@@ -4824,12 +4824,12 @@ trying to bridge these worlds of the traditional investment world
 966
 00:57:31,870 --> 00:57:35,590
 and that of the OG, cryptocurrency open-source world
-以及OG（加密货币开源世界）
+以及在我们周围的
 
 967
 00:57:35,590 --> 00:57:37,590
 that's surrounding us here.
-在我们周围。
+OG（加密货币开源世界）
 
 968
 00:57:37,590 --> 00:57:38,910
@@ -4849,7 +4849,7 @@ can be valued members of the community. Instead of being
 971
 00:57:46,670 --> 00:57:48,830
 entitled and thinking that they're customers,
-有权并认为他们是客户，
+被称作客户，
 
 972
 00:57:48,830 --> 00:57:52,370
@@ -4974,7 +4974,7 @@ kind of a holding vessel for funds that
 996
 00:59:13,830 --> 00:59:19,030
 a giver wants to give to beneficiaries but not immediately.
-捐献者希望立即捐献给受益人。
+捐献者希望捐献给受益人，但不是马上就捐。
 
 997
 00:59:19,390 --> 00:59:21,010
@@ -4989,7 +4989,7 @@ There's a grantor who has wealth and wants to transfer it to the beneficiaries
 999
 00:59:25,450 --> 00:59:28,970
 but not just outright, they want the money to go into a trust.
-但他们不只是要彻底，还希望这笔钱能用于信托。
+但他们不是直接捐，他们希望这笔钱能用于信托。
 
 1000
 00:59:28,970 --> 00:59:32,430
@@ -5024,12 +5024,12 @@ The trustee is the legal owner of the assets that are given into trust
 1006
 00:59:49,570 --> 00:59:52,850
 but the legal owner is with conditions.
-但法定所有人有条件。
+但法定所有人受条件制约。
 
 1007
 00:59:52,850 --> 00:59:55,670
 The legal owner cannot do whatever they want with the property,
-法定所有人无法对财产做任何想做的事情，
+法定所有人不能对财产为所欲为，
 
 1008
 00:59:55,670 --> 01:00:00,250
@@ -5049,7 +5049,7 @@ It's kind of the original old-school legal contract
 1011
 01:00:09,910 --> 01:00:15,230
 and if you're careful with
-如果您对
+如果您小心应对
 
 1012
 01:00:15,230 --> 01:00:19,410
@@ -5099,17 +5099,17 @@ it's not the giver's money anymore,
 1021
 01:00:45,010 --> 01:00:48,110
 it's not the wealth owner's money anymore, it's the trus't money.
-它不再是财富所有者的钱，而不再是桁架的钱。
+它不再是财富所有者的钱，是信托的钱了
 
 1022
 01:00:48,110 --> 01:00:51,970
 If somebody sues the wealth owner, the wealth is gone.
-如果有人起诉财富所有者，那么财富就不复存在了。
+如果有人起诉财富所有者，财富就不复存在了。
 
 1023
 01:00:51,970 --> 01:00:54,430
 It's not theirs anymore, it belongs the trust.
-不再是他们的了，它属于信任。
+不再是他们的了，它属于信托。
 
 1024
 01:00:54,430 --> 01:00:59,430
@@ -5129,7 +5129,7 @@ I'm a nice guy I don't hurt anybody, nobody's going to sue me".
 1027
 01:01:07,370 --> 01:01:11,370
 But one glaring exception to this is divorce.
-但是离婚的一个明显例外是离婚。
+但是一个明显例外是离婚。
 
 1028
 01:01:11,370 --> 01:01:18,550
@@ -5139,12 +5139,12 @@ People routinely get robbed by people who they only recently married
 1029
 01:01:18,550 --> 01:01:22,870
 and it turns out that irrevocable trusts made before marriage --
-事实证明，婚前不可撤销的信任-
+事实证明，不可撤销信托（ILIT)-
 
 1030
 01:01:22,870 --> 01:01:25,330
 you have to do it before or otherwise it won't count --
-您必须先执行此操作，否则它将不起作用-
+必须在结婚前先执行此操作，否则它将不起作用-
 
 1031
 01:01:25,330 --> 01:01:31,350
@@ -5219,7 +5219,7 @@ will have a whole bunch of burdensome reporting requirements
 1045
 01:02:24,810 --> 01:02:28,530
 to the IRS to take on this American customer.
-向美国国税局（IRS）征集该美国客户。
+向美国国税局（IRS）征集该美国客户（信息）。
 
 1046
 01:02:28,750 --> 01:02:30,590
@@ -5229,7 +5229,7 @@ That's why Americans have a lot of trouble
 1047
 01:02:30,590 --> 01:02:34,250
 when they go overseas to work.
-他们出国工作时。
+在他们出国工作时。
 
 1048
 01:02:34,690 --> 01:02:39,050
@@ -5259,7 +5259,7 @@ its citizens are not trying to hide money in Australia,
 1053
 01:02:52,370 --> 01:02:55,770
 so they sign this like agreement
-所以他们像协议一样签字
+所以他们签了合同
 
 1054
 01:02:55,850 --> 01:02:59,330
@@ -5399,12 +5399,12 @@ On this axis you see the Monero return,
 1081
 01:04:52,800 --> 01:04:55,480
 on this axis you see the Bitcoin return.
-在这个轴上，您会看到比特币的回报。
+在这个轴上，您会看到比特币的反弹。
 
 1082
 01:04:55,480 --> 01:04:59,380
 You can see that on months when Monero does well,
-您可以看到在Monero表现良好的几个月中，
+您可以看到在门罗币表现良好的几个月中，
 
 1083
 01:04:59,380 --> 01:05:01,380
@@ -5414,7 +5414,7 @@ Bitcoin also tends to do well.
 1084
 01:05:01,380 --> 01:05:04,520
 You have this kind of pattern, this correlation.
-您有这种模式，这种关联。
+有这种模式，这种关联。
 
 1085
 01:05:05,300 --> 01:05:10,800
@@ -5434,7 +5434,7 @@ This is part of owning crypto --
 1088
 01:05:18,200 --> 01:05:21,660
 that you're on this really wild rollercoaster ride --
-您正处于这种疯狂的过山车之旅中-
+您处于这种疯狂的过山车之旅中-
 
 1089
 01:05:21,660 --> 01:05:24,860
@@ -5459,7 +5459,7 @@ That's a .4 correlation.
 1093
 01:05:31,500 --> 01:05:34,540
 A 1.00 correlation is perfectly correlated.
-1.00 相关系数是完全相关的。
+1.00 代表完全相关。
 
 1094
 01:05:34,540 --> 01:05:36,340
@@ -5684,22 +5684,22 @@ This is an initial investment of one euro becoming 10 million euros, that's the 
 1138
 01:08:24,420 --> 01:08:26,220
 And on this sort of scale,
-在这种规模上
+在这种规模
 
 1139
 01:08:26,220 --> 01:08:28,760
 all of these ups and downs
-所有这些跌宕起伏
+所有这些看起来很大的
 
 1140
 01:08:28,760 --> 01:08:31,800
 which seem big, disappear.
-看起来很大，消失了。
+跌宕起伏，都消失了。
 
 1141
 01:08:31,800 --> 01:08:34,520
 For example, let's look at the S&P 500,
-例如，让我们看一下标准普尔500
+比如，让我们看一下标准普尔500
 
 1142
 01:08:34,520 --> 01:08:36,400
@@ -5719,12 +5719,12 @@ you know that December 2019 has been a very good month.
 1145
 01:08:42,660 --> 01:08:45,160
 We're talking 15% up
-我们正在谈论15％的增长
+我们所说的15％的增长
 
 1146
 01:08:45,160 --> 01:08:47,500
 which is really big for the stock market.
-这对股市真的很大。
+这对股市来说真的是大幅增长了。
 
 1147
 01:08:47,500 --> 01:08:52,900
@@ -5749,7 +5749,7 @@ It's this baby. It's still a baby.
 1151
 01:09:07,620 --> 01:09:11,640
 It's amazing because it's gone up orders of magnitude
-虽然很神奇了，因为它上升了几个数量级
+这很神奇了，因为它上升了几个数量级
 
 1152
 01:09:11,640 --> 01:09:16,020
@@ -5799,7 +5799,7 @@ What I've done here is I've taken the
 1161
 01:09:43,400 --> 01:09:47,280
 value of all of the Bitcoin in existence.
-存在的所有比特币的价值。
+把存在的所有比特币的价值拿到现实中来。
 
 1162
 01:09:47,940 --> 01:09:52,540
@@ -5829,17 +5829,17 @@ I multiplied the number of Bitcoins in existence by the current price
 1167
 01:10:03,740 --> 01:10:06,020
 and that gives you the market cap.
-这给了你市值。
+给你算出市值。
 
 1168
 01:10:06,020 --> 01:10:08,900
 What I've done with that is I've divided that
-我所做的就是我将其分开
+我所做的就是我将比特币市值除以
 
 1169
 01:10:08,900 --> 01:10:15,200
 by the value of all of the gold, above ground, in the world.
-取决于世界上所有黄金的价值。
+世界上所有黄金的价值。
 
 1170
 01:10:15,200 --> 01:10:18,780
@@ -5849,22 +5849,22 @@ All of the gold that has been already been dug out of the ground
 1171
 01:10:18,780 --> 01:10:21,380
 and is sitting in vaults around the world
-并坐在世界各地的保险库中
+并坐落在世界各地的保险库中
 
 1172
 01:10:21,380 --> 01:10:23,420
 and owned mostly by central governments,
-并主要归中央政府所有，
+主要归中央政府所有的所有黄金，
 
 1173
 01:10:23,420 --> 01:10:25,640
 but also a good amount is in jewelry, and so on,
-但是珠宝中也有很多，依此类推，
+但是珠宝中也有很多（黄金），依此类推，
 
 1174
 01:10:25,640 --> 01:10:27,640
 and there are estimates of this.
-并且对此有估计。
+并且对所有黄金估价。
 
 1175
 01:10:28,020 --> 01:10:32,720
@@ -5874,7 +5874,7 @@ Basically, there are estimates for how much gold there is in the world at any gi
 1176
 01:10:32,720 --> 01:10:35,940
 so I've divided the value of all the world's Bitcoin
-所以我将全球所有比特币的价值进行了划分
+所以我将全球所有比特币的价值
 
 1177
 01:10:35,940 --> 01:10:38,360
@@ -5904,7 +5904,7 @@ In other words, all the gold is worth a hundred times what all the Bitcoin is wo
 1182
 01:10:53,040 --> 01:10:55,740
 And if you do that for Monero --
-如果您为Monero这样做-
+如果您对门罗币这样做-
 
 1183
 01:10:55,740 --> 01:10:59,880
@@ -5914,12 +5914,12 @@ and, arguably, this analogy is even more apt for Monero,
 1184
 01:10:59,880 --> 01:11:03,940
 because when you turn a bar of gold over,
-因为当你把一块金条翻过来时，
+因为当你把一根金条翻过来时，
 
 1185
 01:11:03,940 --> 01:11:07,160
 you don't see a list of everyone who owned that bar of gold,
-您不会看到拥有该金条的所有人的列表，
+您不会看到拥有过该金条的所有人的列表，
 
 1186
 01:11:07,160 --> 01:11:08,400
@@ -5929,7 +5929,7 @@ you just see gold --
 1187
 01:11:08,720 --> 01:11:11,800
 Monero acts more like actual gold than Bitcoin does,
-门罗币的行为比比特币更像实际的黄金，
+门罗币比比特币更像实际的黄金，
 
 1188
 01:11:11,800 --> 01:11:15,760
@@ -5949,12 +5949,12 @@ divided by how much all the world's gold is worth
 1191
 01:11:19,520 --> 01:11:24,920
 if you do that, we're looking at 1/100 of 1%.
-如果您这样做，我们将查看1％的1/100。
+如果您这样做，我们结论是1％的1/100。
 
 1192
 01:11:25,960 --> 01:11:32,200
 That's what I mean when I say that this asset class is still a baby, it's still early.
-这就是我说这个资产类别仍然是婴儿时，还很早的意思。
+这就是我说这个资产类别仍然是婴儿时，还是太早了。
 
 1193
 01:11:32,320 --> 01:11:36,480
@@ -5969,12 +5969,12 @@ There could be a bug that nobody knows about.
 1195
 01:11:39,060 --> 01:11:41,960
 There could be governmental action which a lot of people
-可能会有很多人采取的政府行动
+可能会有很多人担心的，政府干预
 
 1196
 01:11:41,960 --> 01:11:43,320
 I think overly worry about
-我觉得太担心了
+我觉得过分担心了
 
 1197
 01:11:43,320 --> 01:11:49,460
@@ -5994,7 +5994,7 @@ And that's not really how governments work,
 1200
 01:11:53,380 --> 01:11:55,380
 it's a bit more deliberative --
-这是经过深思熟虑的-
+（政府）是经过深思熟虑的-
 
 1201
 01:11:55,380 --> 01:11:59,380
@@ -6004,7 +6004,7 @@ and if an unjust ban happens, there are things like the Supreme Court
 1202
 01:11:59,380 --> 01:12:03,460
 that might be asked to decide whether, for example,
-可能会被要求决定是否例如
+可能会被要求决定是否（禁止）例如
 
 1203
 01:12:03,460 --> 01:12:09,120
@@ -6014,12 +6014,12 @@ Americans have a fundamental right to transact value in a private manner.
 1204
 01:12:09,120 --> 01:12:13,900
 This could be a court case that comes up in the future
-这可能是将来要提起的诉讼
+这可能是将来人们
 
 1205
 01:12:14,480 --> 01:12:15,560
 put forth by people
-人们提出的
+要提起的诉讼
 
 1206
 01:12:15,560 --> 01:12:19,460
@@ -6029,5 +6029,5 @@ who really care about privacy as a fundamental human right.
 1207
 01:12:20,140 --> 01:12:23,290
 I'll leave with that, and thanks for your attention.
-我将离开，并感谢您的关注。
+我将离开（我把话撂在这），并感谢您的关注。
 
